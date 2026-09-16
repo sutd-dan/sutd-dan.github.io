@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
+name: dan sutd
+title: Researcher
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
@@ -19,17 +19,17 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: default
+github_username:  default
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+dribbble_username: default
+facebook_username: default
+flickr_username: default
+instagram_username: default
+linkedin_username: default
+xing_username: default
+pinterest_username: default
+youtube_username: default
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
